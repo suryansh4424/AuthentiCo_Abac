@@ -4,7 +4,7 @@ AN ATTRIBUTE BASED ACCESS CONTROL
 
 AuthentiCo adopts a comprehensive and innovative solution approach to provide secure, efficient, and tailored access control and collaboration within cloud-based environments. The project leverages advanced technologies and methodologies to ensure robust security management while maintaining a user-friendly experience.
 
-## DEMO
+## DEMO.
 
 [screen-capture.webm](https://github.com/suryansh4424/AuthentiCo_Abac/assets/131521058/80c1bc53-135a-4be7-a3de-069e823ecc2f)
 ## RUN LOCALLY
