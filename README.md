@@ -9,7 +9,7 @@ AuthentiCo adopts a comprehensive and innovative solution approach to provide se
 [screen-capture.webm](https://github.com/suryansh4424/AuthentiCo_Abac/assets/131521058/80c1bc53-135a-4be7-a3de-069e823ecc2f)
 ## RUN LOCALLY
 
-1. Clone the project
+1. Clone the project 
 
 ```bash
   git clone https://github.com/suryansh4424/AuthentiCo_Abac.git
